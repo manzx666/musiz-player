@@ -1,8 +1,8 @@
 
 let allMusic = [
   {
-    name: "Harley Bird - Home",
-    artist: "Jordan Schor",
+    name: "masing ii - speed up",
+    artist: "ernic zakri",
     img: "music-1",
     src: "music-1"
   },
